@@ -60,7 +60,7 @@ data.shape[0]
 ind_var = data.drop('diagnosis', axis=1)
 depen_var = data[['diagnosis']]
 # %%
-# from AnalyticsVidya tutorials!
+# 
 
 def classification_model(model, data_x, data_y, predictors, outcome):
 
