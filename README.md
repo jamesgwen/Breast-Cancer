@@ -4,7 +4,7 @@
 
 Breast cancer is an unfortunate ailment that affects millions of people worldwide. Personally, it has touched many people close in my family which is what made me interested in this data. There is much research dedicated to identifying tumors early in order to conduct invasive procedures before the cancer progresses to late stage. One particular area of interest is using machine learning to classify a tumor as malignant (cancerous) or benign. The University of Wisconsin has publicly published data on tumors for people to look into what methods are better at classifying tumors.<br/>
 
-For this project, I decided to compare logistic regression and random forests, two popular methods in binary classification problems. I also decided to use k-fold cross validation to efficiently test multiple runs of each model.<br />
+For this project, I decided to compare logistic regression and random forests, two popular methods in binary classification problems. I also decided to use k-fold cross validation to efficiently test multiple runs of each model.<br/>
 
 **Quick Data Exploration** <br/>
 
